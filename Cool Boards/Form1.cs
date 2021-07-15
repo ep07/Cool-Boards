@@ -47,7 +47,7 @@ namespace Cool_Boards
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Mon - Sun: 10:00 AM to 12:00 AM";
+            label5.Text = "Mon - Sun: 10:00 AM to 11:00 AM";
             label5.Refresh();
             label4.Text = "2460 Burwell Heights Road";
             label4.Refresh();
