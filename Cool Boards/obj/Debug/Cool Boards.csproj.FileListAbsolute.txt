@@ -1,0 +1,10 @@
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\obj\Debug\Cool Boards.csproj.AssemblyReference.cache
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\obj\Debug\Cool_Boards.Form1.resources
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\obj\Debug\Cool_Boards.Properties.Resources.resources
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\obj\Debug\Cool Boards.csproj.GenerateResource.cache
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\obj\Debug\Cool Boards.csproj.CoreCompileInputs.cache
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\bin\Debug\Cool Boards.exe.config
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\bin\Debug\Cool Boards.exe
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\bin\Debug\Cool Boards.pdb
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\obj\Debug\Cool Boards.exe
+C:\Users\Faique\source\repos\Cool Boards\Cool Boards\obj\Debug\Cool Boards.pdb
